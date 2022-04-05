@@ -9,7 +9,7 @@ published: true
 
 # About Me
 
-I am a PhD student in the Computer Science Department, School of Computer Science, at Carnegie Mellon University with a research interest in database management systems (DBMSs). More specifically, I am exploring the design and engineering challenges of “self-driving” systems. I am extremely fortunate to be advised by [Andy Pavlo](http://www.cs.cmu.edu/~pavlo/), and I am a member of the [Database Group (CMU-DB)](https://db.cs.cmu.edu/) and [Parallel Data Lab](https://www.pdl.cmu.edu/).
+I am a PhD student in the Computer Science Department, School of Computer Science, at Carnegie Mellon University with a research interest in database management systems (DBMSs), specifically "self-driving" systems. I am extremely fortunate to be advised by [Andy Pavlo](http://www.cs.cmu.edu/~pavlo/), and I am a member of the [Database Group (CMU-DB)](https://db.cs.cmu.edu/) and [Parallel Data Lab](https://www.pdl.cmu.edu/).
 
 I previously completed a BS in Electrical and Computer Engineering in December 2020. Prior to graduate school, I worked at SingleStore (formerly MemSQL) for a year.
 
