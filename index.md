@@ -36,4 +36,4 @@ I previously completed a BS in Electrical and Computer Engineering in December 2
 
 # Miscellaneous
 
-I have a **super cute [girlfriend](https://imjal.github.io)** who I've been happily with since 2019.
+I have a **super cute [girlfriend](https://imjal.github.io)** who I've been happily with since 2020.
