@@ -16,7 +16,7 @@ I previously completed a BS in Electrical and Computer Engineering in December 2
 # Contact
 
 - Email: [wz2@cs.cmu.edu](mailto:wz2@cs.cmu.edu)
-- Office: GHC 9019
+- Office: GHC 9009
 - [GitHub](https://github.com/17zhangw)
 - [LinkedIn](https://www.linkedin.com/in/zhang-william/)
 
