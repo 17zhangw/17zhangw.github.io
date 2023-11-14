@@ -22,6 +22,8 @@ I previously completed a BS in Electrical and Computer Engineering in December 2
 
 # Publications
 
+- Matthew Butrovich, Karthik Ramanathan, John Rollinson, Wan Shen Lim, **Zhang, William**, Justine Sherry, and Andrew Pavlo. “Tigger: A Database Proxy That Bounces With User- Bypass”. VLDB 2023. [PDF](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf)
+- Wan Shen Lim, Matthew Butrovich, **Zhang, William**, Andrew Crotty, Lin Ma, Peijing Xu, Johannes Gehrke, and Andrew Pavlo. “Database Gyms”. CIDR 2023. [PDF](https://db.cs.cmu.edu/papers/2023/p27- lim.pdf)
 - Matthew Butrovich, Wan Shen Lim, Lin Ma, John Rollinson, **William Zhang**, Yu Xia, Andrew Pavlo. “Tastes Great! Less Filling! High Performance and Accurate Training Data Collection for Self-Driving Database Management Systems”. SIGMOD 2022.
 - Andrew Pavlo, Matthew Butrovich, Lin Ma, Prashanth Menon, Wan Shen Lim, Dana Van Aken, and **William Zhang**. “Make Your Database System Dream of Electric Sheep: Towards Self-Driving Operation”. VLDB 2021. [PDF](https://db.cs.cmu.edu/papers/2021/p3211-pavlo.pdf)
 - Lin Ma, **William Zhang**, Jie Jiao, Wuwen Wang, Matthew Butrovich, Wan Shen Lim, Prashanth Menon, and Andrew Pavlo. “MB2: Decomposed Behavior Modeling for Self-Driving Database Management Systems”. SIGMOD 2021. [PDF](https://db.cs.cmu.edu/papers/2021/ma-sigmod2021.pdf)
