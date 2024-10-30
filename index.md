@@ -22,17 +22,21 @@ I previously completed a BS in Electrical and Computer Engineering in December 2
 
 # Publications
 
-- Matthew Butrovich, Karthik Ramanathan, John Rollinson, Wan Shen Lim, **Zhang, William**, Justine Sherry, and Andrew Pavlo. “Tigger: A Database Proxy That Bounces With User- Bypass”. VLDB 2023. [PDF](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf)
-- Wan Shen Lim, Matthew Butrovich, **Zhang, William**, Andrew Crotty, Lin Ma, Peijing Xu, Johannes Gehrke, and Andrew Pavlo. “Database Gyms”. CIDR 2023. [PDF](https://db.cs.cmu.edu/papers/2023/p27- lim.pdf)
-- Matthew Butrovich, Wan Shen Lim, Lin Ma, John Rollinson, **William Zhang**, Yu Xia, Andrew Pavlo. “Tastes Great! Less Filling! High Performance and Accurate Training Data Collection for Self-Driving Database Management Systems”. SIGMOD 2022.
-- Andrew Pavlo, Matthew Butrovich, Lin Ma, Prashanth Menon, Wan Shen Lim, Dana Van Aken, and **William Zhang**. “Make Your Database System Dream of Electric Sheep: Towards Self-Driving Operation”. VLDB 2021. [PDF](https://db.cs.cmu.edu/papers/2021/p3211-pavlo.pdf)
-- Lin Ma, **William Zhang**, Jie Jiao, Wuwen Wang, Matthew Butrovich, Wan Shen Lim, Prashanth Menon, and Andrew Pavlo. “MB2: Decomposed Behavior Modeling for Self-Driving Database Management Systems”. SIGMOD 2021. [PDF](https://db.cs.cmu.edu/papers/2021/ma-sigmod2021.pdf)
-- Ling Zhang, Matthew Butrovich, Tianyu Li, Yash Nannapanei , Andrew Pavlo, John Rollinson, Huanchen Zhang, Ambarish Balakumar, Daniel Biales, Ziqi Dong, Emmanuel Eppinger, Jordi Gonzalez, Wan Shen Lim, Jianqiao Liu, Lin Ma, Prashanth Menon, Soumil Mukherjee, Tanuj Nayak, Amadou Ngom, Jeff Niu, Deepayan Patra, Poojita Raj, Stephanie Wang, Wuwen Wang, Yao Yu, and **William Zhang**. “Everything is a Transaction: Unifying Logical Concurrency Control and Physical Data Structure Maintenance in Database Management Systems”. CIDR 2021. [PDF](https://db.cs.cmu.edu/papers/2021/cidr2021_paper06.pdf)
+- <u>**William Zhang**</u>, Wan Shen Lim, Matthew Butrovich, and Andrew Pavlo. "The Holon Approach for Simultaneously Tuning Multiple Components in a Self-Driving Database Management System with Machine Learning via Synthesized Proto-Actions". VLDB 2024. [PDF](https://www.vldb.org/pvldb/vol17/p3373-zhang.pdf)
+- Wan Shen Lim, Lin Ma, William Zhang, Matthew Butrovich, Samuel I Arch, and Andrew Pavlo. "Hit the Gym: Accelerating Query Execution to Efficiently Bootstrap Behavior Models for Self-Driving Database Management Systems". VLDB 2024. [PDF](https://www.vldb.org/pvldb/vol17/p3680-lim.pdf)
+- Matthew Butrovich, Karthik Ramanathan, John Rollinson, Wan Shen Lim, <u>**William Zhang**</u>, Justine Sherry, and Andrew Pavlo. “Tigger: A Database Proxy That Bounces With User- Bypass”. VLDB 2023. [PDF](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf)
+- Wan Shen Lim, Matthew Butrovich, <u>**William Zhang**</u>, Andrew Crotty, Lin Ma, Peijing Xu, Johannes Gehrke, and Andrew Pavlo. “Database Gyms”. CIDR 2023. [PDF](https://db.cs.cmu.edu/papers/2023/p27- lim.pdf)
+- Matthew Butrovich, Wan Shen Lim, Lin Ma, John Rollinson, <u>**William Zhang**</u>, Yu Xia, Andrew Pavlo. “Tastes Great! Less Filling! High Performance and Accurate Training Data Collection for Self-Driving Database Management Systems”. SIGMOD 2022. [PDF](https://dl.acm.org/doi/10.1145/3514221.3517845)
+- Andrew Pavlo, Matthew Butrovich, Lin Ma, Prashanth Menon, Wan Shen Lim, Dana Van Aken, and <u>**William Zhang**</u>. “Make Your Database System Dream of Electric Sheep: Towards Self-Driving Operation”. VLDB 2021. [PDF](https://db.cs.cmu.edu/papers/2021/p3211-pavlo.pdf)
+- Lin Ma, <u>**William Zhang**</u>, Jie Jiao, Wuwen Wang, Matthew Butrovich, Wan Shen Lim, Prashanth Menon, and Andrew Pavlo. “MB2: Decomposed Behavior Modeling for Self-Driving Database Management Systems”. SIGMOD 2021. [PDF](https://db.cs.cmu.edu/papers/2021/ma-sigmod2021.pdf)
+- Ling Zhang, Matthew Butrovich, Tianyu Li, Yash Nannapanei , Andrew Pavlo, John Rollinson, Huanchen Zhang, Ambarish Balakumar, Daniel Biales, Ziqi Dong, Emmanuel Eppinger, Jordi Gonzalez, Wan Shen Lim, Jianqiao Liu, Lin Ma, Prashanth Menon, Soumil Mukherjee, Tanuj Nayak, Amadou Ngom, Jeff Niu, Deepayan Patra, Poojita Raj, Stephanie Wang, Wuwen Wang, Yao Yu, and <u>**William Zhang**</u>. “Everything is a Transaction: Unifying Logical Concurrency Control and Physical Data Structure Maintenance in Database Management Systems”. CIDR 2021. [PDF](https://db.cs.cmu.edu/papers/2021/cidr2021_paper06.pdf)
 
 # Teaching
 
 **Carnegie Mellon University**
 
+- Teaching Assistant for 15-445: Intro to Database Systems (Fall 2024)
+- Teaching Assistant for 15-721: Advanced Database Systems (Spring 2024)
 - Teaching Assistant for 15-411: Compiler Design (Fall 2020)
 - Teaching Assistant for 15-410: Operating System Design and Implementation (Fall 2019, Spring 2020)
 
